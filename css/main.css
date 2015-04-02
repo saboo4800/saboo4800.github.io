@@ -65,6 +65,7 @@ div p {
   font-size: 3em;
   text-align: center;
   margin: 0px;
+/*  border-bottom:5px solid #cac3e1;*/
 }
 
 section {
@@ -114,13 +115,13 @@ COLORS
 
 /* site body*/
 body {
-  background-color: #fff;
+  background-color: #afa5d2;
   color: #fff;
 }
 
 /* green header*/
 header {
-  background: #6ab47b;
+  background: #7b6ab4;
   border-color: #599a68;
 }
 
@@ -146,16 +147,4 @@ nav a, nav a:visited {
 /* selected nav link*/
 nav a.selected, nav a:hover {
   color: #32673f;
-}
-
-p:nth-of-type(3n+1) {
-  background-color: #7b6ab4;
-}
-
-p:nth-of-type(3n+2) {
-  background-color: #a3b46a;
-}
-
-p:nth-of-type(3n+0) {
-  background-color: #6ab47b;
 }
