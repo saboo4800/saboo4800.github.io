@@ -46,11 +46,12 @@
   
 }
 
-@media screen and (min-width: 660px) {
-
   /****************************************
   HEADER
   *****************************************/    
+
+@media screen and (min-width: 660px) {
+
   
   nav {
     background: none;
