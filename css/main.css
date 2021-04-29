@@ -47,7 +47,8 @@ h3 {
 
 .center {
     text-align: center;
-    padding: 10px 0;
+    padding: 200px 0;
+    
 }
 
 input{
@@ -81,7 +82,7 @@ h1 {
 
 h2 {
   font-size: 0.75em;
-  margin: 0;
+  margin: 10px;
   font-weight: normal;
     padding: 0;
 }
