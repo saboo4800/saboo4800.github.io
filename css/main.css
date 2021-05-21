@@ -89,13 +89,18 @@ SECTION
 *****************************************/
 
 div p {
-  padding: 400px 0px 200px;
-  font-size: 3em;
+  padding: 0px 0px 100px 0px;
+  font-size: 1em;
   text-align: center;
   margin: 20px;
 /*  border-bottom:5px solid #cac3e1;*/
 }
-
+p {
+   padding: 0;
+  font-size: 1em;
+  text-align: center;
+  margin: 20px; 
+}
 section {
   width: 100%;
 }
